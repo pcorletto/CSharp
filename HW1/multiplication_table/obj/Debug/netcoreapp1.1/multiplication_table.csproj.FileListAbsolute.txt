@@ -1,0 +1,16 @@
+C:\Users\admin\csharp\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.deps.json
+C:\Users\admin\csharp\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.runtimeconfig.json
+C:\Users\admin\csharp\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.runtimeconfig.dev.json
+C:\Users\admin\csharp\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.dll
+C:\Users\admin\csharp\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.pdb
+C:\Users\admin\csharp\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.AssemblyInfo.cs
+C:\Users\admin\csharp\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.dll
+C:\Users\admin\csharp\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.pdb
+C:\Users\admin\csharp\HW1\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.deps.json
+C:\Users\admin\csharp\HW1\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.runtimeconfig.json
+C:\Users\admin\csharp\HW1\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.runtimeconfig.dev.json
+C:\Users\admin\csharp\HW1\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.dll
+C:\Users\admin\csharp\HW1\multiplication_table\bin\Debug\netcoreapp1.1\multiplication_table.pdb
+C:\Users\admin\csharp\HW1\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.AssemblyInfo.cs
+C:\Users\admin\csharp\HW1\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.dll
+C:\Users\admin\csharp\HW1\multiplication_table\obj\Debug\netcoreapp1.1\multiplication_table.pdb

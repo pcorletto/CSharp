@@ -1,0 +1,16 @@
+C:\Users\admin\csharp\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.deps.json
+C:\Users\admin\csharp\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.runtimeconfig.json
+C:\Users\admin\csharp\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.runtimeconfig.dev.json
+C:\Users\admin\csharp\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.AssemblyInfo.cs
+C:\Users\admin\csharp\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.dll
+C:\Users\admin\csharp\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.pdb
+C:\Users\admin\csharp\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.dll
+C:\Users\admin\csharp\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.pdb
+C:\Users\admin\csharp\HW1\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.deps.json
+C:\Users\admin\csharp\HW1\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.runtimeconfig.json
+C:\Users\admin\csharp\HW1\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.runtimeconfig.dev.json
+C:\Users\admin\csharp\HW1\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.dll
+C:\Users\admin\csharp\HW1\rectangle_area\bin\Debug\netcoreapp1.1\rectangle_area.pdb
+C:\Users\admin\csharp\HW1\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.AssemblyInfo.cs
+C:\Users\admin\csharp\HW1\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.dll
+C:\Users\admin\csharp\HW1\rectangle_area\obj\Debug\netcoreapp1.1\rectangle_area.pdb

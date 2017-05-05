@@ -1,0 +1,16 @@
+C:\Users\admin\csharp\max_function\bin\Debug\netcoreapp1.1\max_function.deps.json
+C:\Users\admin\csharp\max_function\bin\Debug\netcoreapp1.1\max_function.runtimeconfig.json
+C:\Users\admin\csharp\max_function\bin\Debug\netcoreapp1.1\max_function.runtimeconfig.dev.json
+C:\Users\admin\csharp\max_function\obj\Debug\netcoreapp1.1\max_function.AssemblyInfo.cs
+C:\Users\admin\csharp\max_function\bin\Debug\netcoreapp1.1\max_function.dll
+C:\Users\admin\csharp\max_function\bin\Debug\netcoreapp1.1\max_function.pdb
+C:\Users\admin\csharp\max_function\obj\Debug\netcoreapp1.1\max_function.dll
+C:\Users\admin\csharp\max_function\obj\Debug\netcoreapp1.1\max_function.pdb
+C:\Users\admin\csharp\HW1\max_function\bin\Debug\netcoreapp1.1\max_function.deps.json
+C:\Users\admin\csharp\HW1\max_function\bin\Debug\netcoreapp1.1\max_function.runtimeconfig.json
+C:\Users\admin\csharp\HW1\max_function\bin\Debug\netcoreapp1.1\max_function.runtimeconfig.dev.json
+C:\Users\admin\csharp\HW1\max_function\bin\Debug\netcoreapp1.1\max_function.dll
+C:\Users\admin\csharp\HW1\max_function\bin\Debug\netcoreapp1.1\max_function.pdb
+C:\Users\admin\csharp\HW1\max_function\obj\Debug\netcoreapp1.1\max_function.AssemblyInfo.cs
+C:\Users\admin\csharp\HW1\max_function\obj\Debug\netcoreapp1.1\max_function.dll
+C:\Users\admin\csharp\HW1\max_function\obj\Debug\netcoreapp1.1\max_function.pdb
