@@ -1,0 +1,8 @@
+C:\Users\admin\csharp\HW1\salary_increase\bin\Debug\netcoreapp1.1\salary_increase.deps.json
+C:\Users\admin\csharp\HW1\salary_increase\bin\Debug\netcoreapp1.1\salary_increase.runtimeconfig.json
+C:\Users\admin\csharp\HW1\salary_increase\bin\Debug\netcoreapp1.1\salary_increase.runtimeconfig.dev.json
+C:\Users\admin\csharp\HW1\salary_increase\obj\Debug\netcoreapp1.1\salary_increase.AssemblyInfo.cs
+C:\Users\admin\csharp\HW1\salary_increase\bin\Debug\netcoreapp1.1\salary_increase.dll
+C:\Users\admin\csharp\HW1\salary_increase\bin\Debug\netcoreapp1.1\salary_increase.pdb
+C:\Users\admin\csharp\HW1\salary_increase\obj\Debug\netcoreapp1.1\salary_increase.dll
+C:\Users\admin\csharp\HW1\salary_increase\obj\Debug\netcoreapp1.1\salary_increase.pdb
