@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\csharp\\movie_collection\\movie_collection.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\csharp\\class_examples\\movie_collection\\movie_collection.csproj",
       "projectName": "movie_collection",
-      "projectPath": "C:\\Users\\admin\\csharp\\movie_collection\\movie_collection.csproj",
-      "outputPath": "C:\\Users\\admin\\csharp\\movie_collection\\obj\\",
+      "projectPath": "C:\\Users\\admin\\csharp\\class_examples\\movie_collection\\movie_collection.csproj",
+      "outputPath": "C:\\Users\\admin\\csharp\\class_examples\\movie_collection\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/movie_collection.dll": "C:\\Users\\admin\\csharp\\movie_collection\\bin\\placeholder\\netcoreapp1.1\\movie_collection.dll"
+        "lib/netcoreapp1.1/movie_collection.dll": "C:\\Users\\admin\\csharp\\class_examples\\movie_collection\\bin\\placeholder\\netcoreapp1.1\\movie_collection.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

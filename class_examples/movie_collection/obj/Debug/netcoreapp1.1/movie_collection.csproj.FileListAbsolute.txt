@@ -6,3 +6,11 @@ C:\Users\admin\csharp\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.
 C:\Users\admin\csharp\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.pdb
 C:\Users\admin\csharp\movie_collection\obj\Debug\netcoreapp1.1\movie_collection.dll
 C:\Users\admin\csharp\movie_collection\obj\Debug\netcoreapp1.1\movie_collection.pdb
+C:\Users\admin\csharp\class_examples\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.deps.json
+C:\Users\admin\csharp\class_examples\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.runtimeconfig.json
+C:\Users\admin\csharp\class_examples\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.runtimeconfig.dev.json
+C:\Users\admin\csharp\class_examples\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.dll
+C:\Users\admin\csharp\class_examples\movie_collection\bin\Debug\netcoreapp1.1\movie_collection.pdb
+C:\Users\admin\csharp\class_examples\movie_collection\obj\Debug\netcoreapp1.1\movie_collection.AssemblyInfo.cs
+C:\Users\admin\csharp\class_examples\movie_collection\obj\Debug\netcoreapp1.1\movie_collection.dll
+C:\Users\admin\csharp\class_examples\movie_collection\obj\Debug\netcoreapp1.1\movie_collection.pdb
