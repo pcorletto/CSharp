@@ -26,6 +26,11 @@ namespace classroom
 
         public float GPA{get; set;}
 
+        public void SitDown(Seat seatID){
+
+            setID.IsOccupied(true);
+        }
+
     }
 
     class Teacher
@@ -47,6 +52,8 @@ namespace classroom
 
         public int SeatID{get; set;}
 
+        public bool IsOccupied{get; set;}
+
         public int RoomNumber{get; set;}
 
         // In a classroom 2-dimensional grid, what is the position
@@ -65,6 +72,10 @@ namespace classroom
             firstRoom.setRoomNumber(8310);
             firstRoom.setDaysOfWeek("Monday", "Wednesday");
             firstRoom.setPeriod("6PM-9PM");
+
+            Seat firstSeat = new Seat();
+            Student firstStudent - new Student();
+            firstStudent.SitDown(firstSeat);
         }
     }
 }

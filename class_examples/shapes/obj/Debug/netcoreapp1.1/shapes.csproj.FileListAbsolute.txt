@@ -1,0 +1,8 @@
+C:\Users\admin\csharp\class_examples\shapes\bin\Debug\netcoreapp1.1\shapes.deps.json
+C:\Users\admin\csharp\class_examples\shapes\bin\Debug\netcoreapp1.1\shapes.runtimeconfig.json
+C:\Users\admin\csharp\class_examples\shapes\bin\Debug\netcoreapp1.1\shapes.runtimeconfig.dev.json
+C:\Users\admin\csharp\class_examples\shapes\obj\Debug\netcoreapp1.1\shapes.AssemblyInfo.cs
+C:\Users\admin\csharp\class_examples\shapes\bin\Debug\netcoreapp1.1\shapes.dll
+C:\Users\admin\csharp\class_examples\shapes\bin\Debug\netcoreapp1.1\shapes.pdb
+C:\Users\admin\csharp\class_examples\shapes\obj\Debug\netcoreapp1.1\shapes.dll
+C:\Users\admin\csharp\class_examples\shapes\obj\Debug\netcoreapp1.1\shapes.pdb
