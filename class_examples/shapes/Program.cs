@@ -5,19 +5,45 @@ namespace shapes
     abstract class Shape
     {
 
-        public int OriginX {get; set;}
-        public int OriginY {get; set;}
+        public string Name {get; set;}
+        public abstract double Area {get; set;}
 
     }
 
     class Square : Shape
     {
-        public int SideLength {get; set;}
+        public Square(){
+
+            this.Name = "Square";
+
+        }
+        
+        public double Side {get; set;}
+        public override double Area()
+        {
+            return Side * Side;
+        }
     }
 
     class Circle : Shape
     {
-        public int Radius {get; set;}
+        
+        public Circle(){
+
+            this.Name = "Circle";
+
+        }
+        
+        public double Radius {get; set;}
+        
+        public override double Area()
+        {
+
+            return Math.PI * Math.Pow(Radius, 2);
+
+        }
+        
+        
     }
     
     class Program
@@ -25,21 +51,15 @@ namespace shapes
         static void Main(string[] args)
         {
             Circle myCircle = new Circle();
-            myCircle.Radius = 10;
-            myCircle.OriginX = 2;
-            myCircle.OriginY = -5;
+            myCircle.Radius = 5;
 
             Square mySquare = new Square();
-            mySquare.SideLength = 5;
-            mySquare.OriginX = -3;
-            mySquare.OriginY = 0;
+            mySquare.Side = 7;
+
+            double circleArea = myCircle.Area(myCircle.Radius);
+
+            Console.WriteLine("Area of " + myCircle.Name );
             
-            Console.WriteLine(myCircle.Radius);
-            Console.WriteLine(myCircle.OriginX);
-            Console.WriteLine(myCircle.OriginY);
-            Console.WriteLine(mySquare.SideLength);
-            Console.WriteLine(mySquare.OriginX);
-            Console.WriteLine(mySquare.OriginY);
         }
     }
 }
